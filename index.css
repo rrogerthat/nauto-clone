@@ -84,6 +84,16 @@ body {
 
 .menu-items li:last-child:hover {
     border-color: lightgray;
+}  
+
+/* .menu-items li:nth-child(4) {
+    display: flex;
+    align-items: center;
+} */
+
+.arrow-down {
+    width: 10px;
+    margin-left: 10px;
 }
 
 .submenu-items {
