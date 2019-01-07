@@ -1,6 +1,6 @@
 <h1>Nauto Landing Page Clone</h1>
 
-<h2><a target="_blank" href="https://rrogerthat.github.io/nauto-clone/">Link to site</a></h2>
+<h2><a href="https://rrogerthat.github.io/nauto-clone/" target="_blank">Link to site</a></h2>
 
 <p>Cloned <a target="_blank" href="https://www.nauto.com/">Nauto</a> website by mirroring its visual elements and dynamic functionalities.</p>
 
